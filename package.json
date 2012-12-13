@@ -1,0 +1,16 @@
+{ "name": "grunt-n-roses"
+, "description": "grunt a run, n' roses for node"
+, "keywords": [ "grunt", "tasks" ]
+, "version": "0.0.0"
+, "homepage": "http://gruntjs.com/"
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/orlin/grunt-n-roses.git"
+  }
+, "author": "Orlin M Bozhinov <om@soundsapiens.com>"
+, "dependencies": {}
+, "licenses":
+  [ { "type": "Unlicense"
+    , "url" : "http://unlicense.org/"
+    } ]
+}
